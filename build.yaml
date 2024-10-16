@@ -6,7 +6,7 @@
 # distinguish build outputs from each other:
 #
 board: [ "adafruit_kb2040" ]
-# shield: [ "corne_left", "corne_right" ]
+shield: [ "two_percent_milk" ]
 # include:
 #   - board: bdn9_rev2
 #   - board: nice_nano_v2
